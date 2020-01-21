@@ -3,11 +3,11 @@
 }
 
 h1 {
-  font-family: "Bigelow Rules";
+  font-family: "Permanent Marker", cursive;
   font-size: 72px;
-  color: #0ccac4;
+  color: #051a19;
 }
 
 body {
-  background-color: #003300;
+  background: linear-gradient(270deg, #0080ff, teal);
 }

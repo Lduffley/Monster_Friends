@@ -1,9 +1,10 @@
 .search-box {
   -webkit-appearance: none;
   border: 10px;
-  outline: lightblue, 1px;
+  outline: rgb(39, 41, 42), 1px;
   padding: 10px;
-  width: 150px;
+  text-align: center;
+  width: 250px;
   line-height: 30px;
   margin-bottom: 30px;
 }
